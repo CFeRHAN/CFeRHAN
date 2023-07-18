@@ -15,16 +15,17 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: center;">
-  <div style="flex: 1; margin-right: 10px;">
+  <div style="width: 50%;">
     <img src="https://github-readme-stats.vercel.app/api?username=CFeRHAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   </div>
-  <div style="flex: 1; margin-left: 10px;">
+  <div style="width: 50%;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=CFeRHAN&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
   </div>
 </div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CFeRHAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
+
 
 
 
